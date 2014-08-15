@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+t"], "command": "rails_test_one" },
+	{ "keys": ["super+shift+t"], "command": "rails_test_all" }
+]
